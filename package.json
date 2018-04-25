@@ -1,0 +1,24 @@
+{
+  "name": "week-12",
+  "version": "1.0.0",
+  "description": "Friend finder application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonygeee/Friend-Finder.git"
+  },
+  "keywords": [
+    "Friend",
+    "Finder"
+  ],
+  "author": "Tony Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonygeee/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/Tonygeee/Friend-Finder#readme"
+}
